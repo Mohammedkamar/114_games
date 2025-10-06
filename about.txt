@@ -1,0 +1,2 @@
+Database Setup File: config.php
+Developed by: Mohammed Kamar Shaikh
